@@ -26,9 +26,19 @@
 
 ###
 
-<p align="left">I'm from Pernambuco, Brazil.<br><br>I'm studying to help with open source projects, currently working on personal projects<br><br>
-  
+I'm from Pernambuco, Brazil, currently studying to develop open source projects as a hobby.
+##  Check out what I'm currently working on.
+- [hyprdots](https://github.com/csouzape/hyprdots) - my hyprland config
+- [wallpapers](https://github.com/csouzape/wallpapers) - my wallpapers
+
 ###
+
+##  Stars
+- [linuxtoys](https://github.com/psygreg/linuxtoys) - tools for linux 
+- [linutil](https://github.com/ChrisTitusTech/linutil) - tools for linux for chris titus
+- [winutil](https://github.com/ChrisTitusTech/winutil) - tools for windows 
+
+
 
 <h3 align="left">Language and tools</h3>
 
