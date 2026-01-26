@@ -25,7 +25,7 @@
 
 ###
 
-<h1 align="center">Ola!, meu nome é Carlos!</h1>
+<h1 align="center">Hello, My name is Carlos!</h1>
 
 ###
 
