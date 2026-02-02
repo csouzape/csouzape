@@ -37,7 +37,7 @@ I'm from Pernambuco, Brazil, currently studying to develop open source projects 
 ##  Check out what I'm currently working on.
 - [hyprdots](https://github.com/csouzape/hyprdots) - my hyprland config
 - [wallpapers](https://github.com/csouzape/wallpapers) - my wallpapers
-
+- [10centavos](https://www.meus10centavos.com.br/) - i contribute with someone blogs and tutorials 
 ###
 
 ##  Stars
