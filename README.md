@@ -36,11 +36,12 @@
 I'm from Pernambuco, Brazil, currently studying to develop open source projects as a hobby.
 
 ## My setup 
-Window Manager : Hyprland
-Sistema Operacional : Fedora
-Editor : Neovim and vscode to large projects
-Shell : Bash
-Terminal Emulator: Alacritty
+- Window Manager : [Hyprland](https://github.com/csouzape/hyprdots)
+- Sistema Operacional : [Fedora](https://www.fedoraproject.org/kde/)
+- Editor : [Neovim](https://www.lazyvim.org/) and [vscode](https://code.visualstudio.com/) to large projects
+- Shell : [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+- Terminal Emulator: [Alacritty](https://alacritty.org/)
+- All based on: [the ultimate system](https://christitus.com/the-ultimate-system/)
 
 ##  Check out what I'm currently working on.
 - [hyprdots](https://github.com/csouzape/hyprdots) - my hyprland config
