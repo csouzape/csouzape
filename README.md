@@ -37,7 +37,7 @@
 
 ## My setup 
 - Window Manager : [Hyprland](https://github.com/csouzape/hyprdots)
-- Sistema Operacional : [Fedora](https://www.fedoraproject.org/kde/)
+- Operational System : [Fedora](https://www.fedoraproject.org/kde/)
 - Editor : [Neovim](https://www.lazyvim.org/) and [vscode](https://code.visualstudio.com/) to large projects
 - Shell : [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - Terminal Emulator: [Alacritty](https://alacritty.org/)
