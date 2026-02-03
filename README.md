@@ -33,7 +33,7 @@
 
 ###
 
-I'm from Pernambuco, Brazil, currently studying to develop open source projects as a hobby.
+<h3 align="center">My name is Carlos and I am currently studying software development and scripting to contribute to the open-source world.
 
 ## My setup 
 - Window Manager : [Hyprland](https://github.com/csouzape/hyprdots)
