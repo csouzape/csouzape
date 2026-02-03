@@ -34,6 +34,14 @@
 ###
 
 I'm from Pernambuco, Brazil, currently studying to develop open source projects as a hobby.
+
+## My setup 
+Window Manager : Hyprland
+Sistema Operacional : Fedora
+Editor : Neovim and vscode to large projects
+Shell : Bash
+Terminal Emulator: Alacritty
+
 ##  Check out what I'm currently working on.
 - [hyprdots](https://github.com/csouzape/hyprdots) - my hyprland config
 - [wallpapers](https://github.com/csouzape/wallpapers) - my wallpapers
