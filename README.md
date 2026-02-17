@@ -36,7 +36,7 @@
 
 <h3 align="center">My name is Carlos and I am currently studying software development and scripting to contribute to the open-source world.
 
-##  My setup 
+## 🖥️ My setup 
 - Window Manager : [Hyprland](https://github.com/csouzape/hyprdots)
 - Operational System : [Fedora](https://www.fedoraproject.org/kde/)
 - Editor : [Neovim](https://www.lazyvim.org/) and [vscode](https://code.visualstudio.com/) to large projects
