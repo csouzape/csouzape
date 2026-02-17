@@ -35,7 +35,7 @@
 
 <h3 align="center">My name is Carlos and I am currently studying software development and scripting to contribute to the open-source world.
 
-## My setup 
+##  My setup 
 - Window Manager : [Hyprland](https://github.com/csouzape/hyprdots)
 - Operational System : [Fedora](https://www.fedoraproject.org/kde/)
 - Editor : [Neovim](https://www.lazyvim.org/) and [vscode](https://code.visualstudio.com/) to large projects
@@ -43,13 +43,15 @@
 - Terminal Emulator: [Alacritty](https://alacritty.org/)
 - All based on: [the ultimate system](https://christitus.com/the-ultimate-system/)
 
-##  Check out what I'm currently working on.
+## ⚙️ Check out what I'm currently working on.
 - [hyprdots](https://github.com/csouzape/hyprdots) - my hyprland config
 - [wallpapers](https://github.com/csouzape/wallpapers) - my wallpapers
-- [Meus10Centavos](https://www.meus10centavos.com.br/) - i contribute with someone blogs and tutorials 
+- [Meus10Centavos](https://www.meus10centavos.com.br/) - i contribute with someone blogs and tutorials
+- [my-lazyvim](https://github.com/csouzape/my-lazyvim) - my lazyvim config
+- [my-lazyvim](https://github.com/csouzape/dsxtool) - my toolbox
 ###
 
-##  Stars
+## 🌟 Stars
 - [linuxtoys](https://github.com/psygreg/linuxtoys) - tools for linux 
 - [linutil](https://github.com/ChrisTitusTech/linutil) - tools for linux for chris titus
 - [winutil](https://github.com/ChrisTitusTech/winutil) - tools for windows 
