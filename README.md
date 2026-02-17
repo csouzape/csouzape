@@ -49,7 +49,7 @@
 - [wallpapers](https://github.com/csouzape/wallpapers) - my wallpapers
 - [Meus10Centavos](https://www.meus10centavos.com.br/) - i contribute with someone blogs and tutorials
 - [my-lazyvim](https://github.com/csouzape/my-lazyvim) - my lazyvim config
-- [my-lazyvim](https://github.com/csouzape/dsxtool) - my toolbox
+- [dsxtool](https://github.com/csouzape/dsxtool) - my toolbox
 ###
 
 ## 🌟 Stars
