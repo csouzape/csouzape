@@ -1,4 +1,5 @@
 <div align="center">
+  <img width="600" height="320" alt="Gemini_Generated_Image_xnesytxnesytxnes-Photoroom-Photoroom (1)" src="https://github.com/user-attachments/assets/3e7199e6-0c7e-420c-973e-19147deeff04" />
   <img height="150" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
 </div>
 
