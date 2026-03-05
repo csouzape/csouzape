@@ -37,11 +37,11 @@
 <h3 align="center">My name is Carlos and I am currently studying software development and scripting to contribute to the open-source world.
 
 ## 🖥️ My setup 
-- Window Manager : [Hyprland](https://github.com/csouzape/hyprdots)
-- Operational System : [Fedora](https://www.fedoraproject.org/kde/)
+- Window Manager : [Hyprland](https://github.com/csouzape/hyprdots) and [KDE](https://kde.org) 
+- Operational System : [Fedora](https://www.fedoraproject.org/kde/) and [ArchLinux](https://archlinux.org/)
 - Editor : [Neovim](https://www.lazyvim.org/) and [vscode](https://code.visualstudio.com/) to large projects
 - Shell : [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-- Terminal Emulator: [Alacritty](https://alacritty.org/)
+- Terminal Emulator: [Alacritty](https://alacritty.org/) and [Konsole](https://apps.kde.org/pt-br/konsole/)
 - All based on: [the ultimate system](https://christitus.com/the-ultimate-system/)
 
 ## ⚙️ Check out what I'm currently working on.
