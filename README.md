@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="600" height="320" alt="Gemini_Generated_Image_xnesytxnesytxnes-Photoroom-Photoroom (1)" src="https://github.com/user-attachments/assets/3e7199e6-0c7e-420c-973e-19147deeff04" />
-  <img height="150" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
+<img width="1536" height="708" alt="ChatGPT Image 9 de mar  de 2026, 14_54_07" src="https://github.com/user-attachments/assets/07cb76cf-c1be-4d0d-8caf-9c744d10f1ff" />
+
 </div>
 
 ###
