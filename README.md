@@ -101,8 +101,3 @@
 <h3 align="left">My Stats :</h3>
 
 ###
-
-![csouzaoe GitHub stats](https://github-readme-stats.vercel.app/api?username=csouzape&theme=github_dark&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csouzape&layout=compact&theme=github_dark)
-
-###
