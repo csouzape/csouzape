@@ -96,8 +96,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="35" alt="cmake logo"  />
 </div>
 
-###
 
-<h3 align="left">My Stats :</h3>
-
-###
