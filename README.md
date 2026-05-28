@@ -45,11 +45,12 @@
 - All based on: [the ultimate system](https://christitus.com/the-ultimate-system/)
 
 ## ⚙️ Check out what I'm currently working on.
+- [dsxtool](https://github.com/csouzape/dsxtool) - my linux toolbox
 - [hyprdots](https://github.com/csouzape/hyprdots) - my hyprland config
 - [wallpapers](https://github.com/csouzape/wallpapers) - my wallpapers
 - [Meus10Centavos](https://www.meus10centavos.com.br/) - i contribute with someone blogs and tutorials
 - [my-lazyvim](https://github.com/csouzape/my-lazyvim) - my lazyvim config
-- [dsxtool](https://github.com/csouzape/dsxtool) - my linux toolbox
+
 ###
 
 ## 🌟 Stars
