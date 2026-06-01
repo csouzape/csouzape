@@ -13,8 +13,16 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
   
-  <a href="mailto:oditorrinco222@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  <a href="mailto:csouzadsx@protonmail.com">
+  <img src="https://img.shields.io/static/v1?message=ProtonMail&logo=proton&label=&color=6D4AFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="protonmail logo" />
+  </a>
+ 
+  <a href="https://www.linkedin.com/in/carlosgabriel0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+
+  <a href="https://www.youtube.com/@seu_canal" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
 </div>
 
